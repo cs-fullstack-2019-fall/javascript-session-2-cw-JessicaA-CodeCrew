@@ -57,9 +57,11 @@ class Calculator_class {
     // It also updates the running total property
     // TODO: Student implement the method for multiplication
    
+
     // Divides the 2 numbers passed in and returns the result
     // It also updates the running total property
     // TODO: Student implement the method for division
+
 
 }
 
